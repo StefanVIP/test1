@@ -1,2 +1,4 @@
 <?php
-echo 'Hello, world!';
+$i = "Hello";
+$y = ", world!";
+echo "$i + $y";
